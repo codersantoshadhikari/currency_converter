@@ -1,10 +1,4 @@
 # Currency Convertor
-
-
-
-![WhatsApp Image 2023-09-15 at 2 55 56 PM](https://github.com/saadshd/Flutter-Currency-Convertor/assets/101456852/e6ecd3ce-d968-4c1f-b639-34624daf0204)
-
-
-
+![Screenshot_1695797062](https://github.com/Santoshadhikary/currency_converter/assets/122032759/1b3588fb-7908-4d41-a267-27c7980ecf6a)
 ## Show your support
 Give a ⭐ if this project helped you! 
